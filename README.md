@@ -11,3 +11,5 @@ The design in this repository are built to adapt seamlessly to various screen si
 The code is well structured and has comments, making it easy for you to understand.
 ### Animating elements:
 The design uses the ScrollReveal library.
+### Two themes:
+The website has two themes: light theme and dark theme.
