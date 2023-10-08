@@ -421,7 +421,7 @@ body.dark-theme{
 .about__details {
     display: grid;
     row-gap: 1rem;
-    margin-bottom: var(--mb-2-5);
+    text-align: left;
 }
 
 .about__details-description {
